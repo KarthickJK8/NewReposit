@@ -5,6 +5,7 @@ public class Employee {
 	public static void main(String[] args) {
 		
 		System.out.println("Karthick");
+		System.out.println("Updated");
 	}
 
 }
